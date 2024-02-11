@@ -1,7 +1,7 @@
 Description -
 Xampp : 7.3 And Laravel Version : 8.83
 
-Step 1 - Import database (sql/chat_app.sql) or migrate database table
+Step 1 - Migrate database table or import sql from zip
 
 Step 2 - Need to execute command in cmd "php artisan websocket:init"
 
